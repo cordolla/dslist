@@ -3,6 +3,7 @@ package com.devsuperior.dslist.dto;
 import com.devsuperior.dslist.entities.Game;
 
 public class GameMinDTO {
+
     private Long id;
     private String title;
     private Integer year;
